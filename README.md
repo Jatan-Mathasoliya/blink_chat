@@ -1,3 +1,13 @@
+⚠️ Project Update
+
+This project was a solo learning journey to build a real-time chat app (BlinkChat) using the MERN stack. I implemented and deployed the core one-to-one chat functionality successfully.
+
+However, as I progressed further — especially with features like group chat and public channels — I faced increasingly complex bugs and architectural challenges. Since much of the code was based on tutorials, it became difficult to extend and debug beyond what was shown.
+
+Due to these challenges and limited support resources, I’ve decided to pause further development for now. The project remains a valuable milestone in my learning journey, especially in understanding real-world debugging, asynchronous programming, and the limits of copy-paste development.
+
+✅ One-to-one chat still works — feel free to try it out!
+
 # **Project : Blink Chat**
 
 ## **Figma Link :**
