@@ -35,35 +35,23 @@ The solution integrates multiple features from various chat applications into a 
     - Seamless and real-time private messaging.
 2. **Group Chatting**:
     - Create groups with multiple members for collective communication.
-3. **Public Channels**:
-    - Access information like news, weather, stock updates, and sports in dedicated channels.
-4. **AI Chatbot**:
+3. **AI Chatbot**:
     - A chatbot with functionalities similar to ChatGPT for assistance and interaction.
-5. **Voice and Video Calls**:
-    - Fully functional calling features for personal and professional use.
-6. **File Sharing**:
+4. **File Sharing**:
     - Support for all types of media files, documents, and more.
-7. **Multiple Themes**:
+5. **Multiple Themes**:
     - Customizable themes for the chat and messaging interface.
-8. **Secure Login**:
+6. **Secure Login**:
     - User authentication with secure password management and encrypted login data.
-9. **High-Speed Messaging**:
+7. **High-Speed Messaging**:
     - Optimized for instant messaging, ensuring users can "chat as fast as blink."
-10. **Fully Responsive Design**:
+8. **Fully Responsive Design**:
     - Compatible with all screen sizes for a seamless user experience on any device.
-11. **Meeting Calander for professional Uses**:
-    - Integration of a meeting calendar for scheduling and organizing professional meetings.
 ---
 
 ### **Target Audience**
 
 - Anyone looking for a feature-rich chat application with the convenience of multiple functionalities in one platform.
-
----
-
-### **Unique Selling Point (USP)**
-
-The chat application provides an **all-in-one solution**, integrating features like public channels, AI chatbots, file sharing, and enhanced customization options not commonly found in existing platforms like WhatsApp or Telegram.
 
 ---
 
@@ -109,9 +97,9 @@ The chat application provides an **all-in-one solution**, integrating features l
 ### **Scaling and Future Development**
 
 1. **Initial Launch**:
-    - Implement and launch basic features like one-to-one and group chatting with responsiveness.
+    - Implement and launch basic features like one-to-one chat and AI Chat bot with responsiveness.
 2. **Post-Launch Development**:
-    - Add advanced features such as public channels, AI chatbots, and calling functionalities.
+    - Add advanced features such as public channels, Group Chat, and calling functionalities.
 3. **Future Plans**:
     - Explore partnerships or expansions by offering the solution to companies and industries.
     - Adapt the platform for business use, opening avenues for collaborations and growth.
